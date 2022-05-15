@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">微信</string>
+    <string name="theme_text">华南理工大学</string>
+    <string name="go_out_request">外出申请</string>
+    <string name="home">首页</string>
+    <string name="report_text">粤ICP备05084312号</string>
+    <string name="title_cj">采集</string>
+    <string name="title_at_school">在校</string>
+    <string name="title_back">离校·返校</string>
+    <string name="title_report">报道</string>
+    <string name="title_health">健康信息</string>
+    <string name="content_face_cj">人脸采集</string>
+    <string name="content_use_cj">使用授权</string>
+    <string name="content_request_go">外出申请</string>
+    <string name="content_leave_school">离校登记</string>
+    <string name="content_back_school">返校申请</string>
+    <string name="content_back_trip">返程填报</string>
+    <string name="content_report_start">开学报到</string>
+    <string name="content_health_report">健康填报</string>
+    <string name="content_check">排查登记</string>
+    <string name="content_remain">温馨提示：每次只能发起一次外出申请，外出申请生效期间无法再次发起申请。</string>
+    <string name="title_activity_msg_edit">MsgEditActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
